@@ -1,7 +1,7 @@
-**UTP Teknologi Integrasi Sistem - A
+UTP Teknologi Integrasi Sistem - A
 
 Zeva Wyakta Zaylendra 
-245150700111033**
+245150700111033
 
 Daftar Endpoint
 * `GET /api/items` - Menampilkan semua barang.
